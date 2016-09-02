@@ -62,3 +62,33 @@
 
 
 
+
+PITCH
+
+Problem: the rise of Augmented Reality apps, like Pokemon Go, creates massive opportunities for Ad publishers. 
+Today, enough tools are available to create AR content. Yet no platform is available to run & monitor campaigns.
+
+Company & solution: With Pike we open up the Augmented reality world for ad publishers with a platform 
+to create campaigns. For app developers we provide integrations to monetize their apps by showing augmented ads from publishers.
+
+The market: the current online advertising business is worthed 200billion dollars worldwide. 
+By 2020, 1billion people will use Augemented reality apps. 
+
+Competition: Directly from AR tech companies like Layar & CraftAR since they are looking for monetazation models within their apps
+Indirect competition from the traditional online Ad companies like Google & Facebook. 
+
+Our approach is unique because our platform spans accross multiple apps compared to Layar & CraftAR, they stay within their own ecossystem. 
+Compared to location based ads currently available in mobile apps, we provide more relevant and less annoying ads to the end user, since they're
+smoothly integrated in the environment and users are really looking at a specific location
+
+Achievements: as of now we've a basic platform to configure ads and show them on specific building on a specific location. In the next months
+we'll add user segmentation & advanced monitoring of campaigns. We've already our first letter of intent.
+
+Conclusion: we invite all ad publishers & App developers to monetize & augment their business with our platform
+
+Team: our it consists of Tom Claus, who has several years of experience in business development & strategic partnerships at Mobile Vikings
+And Maarten Huijsmans, I have serveral years of experience in platform development in Web and Mobile at Mobile Vikings and The Persgroep
+
+
+-> To much time about competitors (1,5min): not why. Only we are different. Leave the rest for the following questions
+-> 
