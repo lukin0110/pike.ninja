@@ -1,4 +1,3 @@
 # pike.ninja
-Website of Pike
 
-Maarten stinkt!
+Website of Pike
