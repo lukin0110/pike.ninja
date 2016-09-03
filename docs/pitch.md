@@ -93,7 +93,7 @@ FEEDBACK -> To much time about competitors (1,5min): not why. Only we are differ
 
 ## PITCH v1.0 rc1-beta
 
-The rise of Augmented Reality apps, like Pokemon Go, creates massive opportunities for Ad publishers.
+The rise of Augmented Reality apps, like Pokemon Go, creates massive opportunities for Ad publishers.ech be
 Today, enough tools are available to create Augmented Reality content. Yet no platform is available to run & monitor your advertising campaigns.
 
 That's why we’ve build Pike. With Pike we open up the Augmented reality world for ad publishers with a platform to create campaigns. For app developers we provide integrations to monetize their apps by showing augmented ads from publishers.
@@ -110,4 +110,14 @@ We invite all ad publishers & App developers to monetize & augment their busines
 
 Our team  consists of Tom Claus, who has several years of experience in business development & strategic partnerships at Mobile Vikings. And Maarten Huijsmans, who has serveral years of experience in platform development in Web and Mobile at Mobile Vikings and The Persgroep
 
-=> Content
+=> Say Content not Advertising.
+
+##Project A Ventures Questions:
+
+- Not clear what we're doing: Selling Ads?
+- How to we handele the ups and downs.
+- Dont mention Pokemon Go. It's crashing.
+- We need traction from Brands
+- Proriate resources brands?
+- Not clear we're the tech between publisher and advrtisier. Not only the brooker.
+- More focus on the tech and SDK on Publisher side. And easy to create ads on Advertiser side.
