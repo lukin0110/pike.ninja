@@ -61,9 +61,7 @@
  - integrated user experience
 
 
-
-
-PITCH
+##PITCH v1.0
 
 Problem: the rise of Augmented Reality apps, like Pokemon Go, creates massive opportunities for Ad publishers. 
 Today, enough tools are available to create AR content. Yet no platform is available to run & monitor campaigns.
@@ -90,5 +88,5 @@ Team: our it consists of Tom Claus, who has several years of experience in busin
 And Maarten Huijsmans, I have serveral years of experience in platform development in Web and Mobile at Mobile Vikings and The Persgroep
 
 
--> To much time about competitors (1,5min): not why. Only we are different. Leave the rest for the following questions
+FEEDBACK -> To much time about competitors (1,5min): not why. Only we are different. Leave the rest for the following questions
 -> 
