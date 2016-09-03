@@ -90,3 +90,24 @@ And Maarten Huijsmans, I have serveral years of experience in platform developme
 
 FEEDBACK -> To much time about competitors (1,5min): not why. Only we are different. Leave the rest for the following questions
 -> 
+
+PITCH v1.0 rc1-beta
+
+The rise of Augmented Reality apps, like Pokemon Go, creates massive opportunities for Ad publishers.
+Today, enough tools are available to create Augmented Reality content. Yet no platform is available to run & monitor campaigns.
+
+That's why we’ve build Pike. With Pike we open up the Augmented reality world for ad publishers with a platform
+to create campaigns. For app developers we provide integrations to monetize their apps by showing augmented ads from publishers.
+
+The current online advertising business is worthed 200billion dollars worldwide.
+By 2020, 1billion people will use Augemented reality apps.
+
+Our direct competitors are Augmented Reality tech companies like Layar & CraftAR. Our indirect competitors are traditional online & mobile Ad companies.
+
+Our approach is unique because our platform spans across multiple apps. We provide more relevant and less annoying ads to the end user since they’re smoothly integrated in the environment and users are actually looking at a specific location.
+
+As of now we've a basic platform to configure ads and show them on specific building on a specific location. In the next months we'll add user segmentation & advanced monitoring of campaigns.
+
+We invite all ad publishers & App developers to monetize & augment their business with our platform on https://pike.ninja.
+
+Our team  consists of Tom Claus, who has several years of experience in business development & strategic partnerships at Mobile Vikings. And Maarten Huijsmans, who has serveral years of experience in platform development in Web and Mobile at Mobile Vikings and The Persgroep
