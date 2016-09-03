@@ -91,7 +91,7 @@ And Maarten Huijsmans, I have serveral years of experience in platform developme
 FEEDBACK -> To much time about competitors (1,5min): not why. Only we are different. Leave the rest for the following questions
 -> 
 
-PITCH v1.0 rc1-beta
+## PITCH v1.0 rc1-beta
 
 The rise of Augmented Reality apps, like Pokemon Go, creates massive opportunities for Ad publishers.
 Today, enough tools are available to create Augmented Reality content. Yet no platform is available to run & monitor campaigns.
