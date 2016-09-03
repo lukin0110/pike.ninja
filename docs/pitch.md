@@ -94,13 +94,11 @@ FEEDBACK -> To much time about competitors (1,5min): not why. Only we are differ
 ## PITCH v1.0 rc1-beta
 
 The rise of Augmented Reality apps, like Pokemon Go, creates massive opportunities for Ad publishers.
-Today, enough tools are available to create Augmented Reality content. Yet no platform is available to run & monitor campaigns.
+Today, enough tools are available to create Augmented Reality content. Yet no platform is available to run & monitor your advertising campaigns.
 
-That's why we’ve build Pike. With Pike we open up the Augmented reality world for ad publishers with a platform
-to create campaigns. For app developers we provide integrations to monetize their apps by showing augmented ads from publishers.
+That's why we’ve build Pike. With Pike we open up the Augmented reality world for ad publishers with a platform to create campaigns. For app developers we provide integrations to monetize their apps by showing augmented ads from publishers.
 
-The current online advertising business is worthed 200billion dollars worldwide.
-By 2020, 1billion people will use Augemented reality apps.
+The current online advertising business is worthed 200 billion dollars worldwide. By 2020, 1 billion people will use Augemented reality apps.
 
 Our direct competitors are Augmented Reality tech companies like Layar & CraftAR. Our indirect competitors are traditional online & mobile Ad companies.
 
