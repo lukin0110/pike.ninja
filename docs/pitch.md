@@ -109,3 +109,5 @@ As of now we've a basic platform to configure ads and show them on specific buil
 We invite all ad publishers & App developers to monetize & augment their business with our platform on https://pike.ninja.
 
 Our team  consists of Tom Claus, who has several years of experience in business development & strategic partnerships at Mobile Vikings. And Maarten Huijsmans, who has serveral years of experience in platform development in Web and Mobile at Mobile Vikings and The Persgroep
+
+=> Content
