@@ -26,7 +26,7 @@
 		timeOutVideo,
 		timeOutImage;
 	var frameNumber = 0;
-	var imageCount = 1;
+	var imageCount = 0;
 	var isBinaryCounter = false;
 
 	var options = {
@@ -103,7 +103,7 @@
 
 	function switchImage() {
 		image = $("#img" + imageCount)[0];
-		if (imageCount++ > 3) imageCount = 1;
+		if (imageCount++ > 2) imageCount = 0;
 		if (points) update();
 	}
 
