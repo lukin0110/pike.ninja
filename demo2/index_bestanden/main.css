@@ -28,4 +28,6 @@ video, img {
 	position: absolute;
 	top: 10px;
 	left: 350px;
+	font-size: 28px;
+	padding: 10px;
 }

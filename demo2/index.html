@@ -325,55 +325,38 @@
   </head>
 <body>
 
+<div id="demo">PIKE DEMO v1.0</div>
 <div id="message">Normal tracking</div>
 <div id="time">Time: 4.88</div>
 <div id="frame">Frame number (time calculation): 122</div>
 <div id="counter"></div>
 
-<button style="display: inline-block;" id="bt_switch_video">Switch video</button>
-<button style="display: inline-block;" id="bt_switch_image">Switch image</button>
+<button style="display: none;" id="bt_switch_video">Switch video</button>
+<button style="display: inline-block;" id="bt_switch_image">Switch advertising</button>
 
 <video id="video_tracking" controls="controls" loop="loop" poster="videos/converted/tracking.jpg" height="480" width="640">
+  <!--<source src="index_bestanden/tracking.mp4" type="video/mp4">-->
 	<source src="index_bestanden/tracking.mp4" type="video/mp4">
-	<source src="index_bestanden/tracking.webm" type="video/webm">
-	<source src="index_bestanden/tracking.ogv" type="video/ogg">
 </video>
 <canvas style="display: inline;" id="canvas_tracking" width="640" height="480"></canvas>
 <canvas style="display: inline;" id="canvas_tracking_image" width="640" height="480"></canvas>
 
 <video id="video_tracking_counter" controls="controls" loop="loop" height="480" width="644">
 	<source src="index_bestanden/tracking_counter.mp4" type="video/mp4">
-	<source src="index_bestanden/tracking_counter.webm" type="video/webm">
-	<source src="index_bestanden/tracking_counter.ogv" type="video/ogg">
 </video>
 <canvas id="canvas_tracking_counter" width="644" height="480"></canvas>
 <canvas id="canvas_tracking_image_counter" width="644" height="480"></canvas>
 
-<img id="img0" src="index_bestanden/img0.jpg">
-<img id="img1" src="index_bestanden/img1.png">
-<img id="img2" src="index_bestanden/img2.png">
-<img id="img3" src="index_bestanden/img3.png">
+<img id="img0" src="index_bestanden/logo.jpg">
+<img id="img1" src="index_bestanden/startupbus.jpg">
+<img id="img2" src="index_bestanden/zingmenu.png">
+<img id="img3" src="index_bestanden/moodshake.jpg">
 <img id="img4" src="index_bestanden/img4.png">
 
 <script src="index_bestanden/ga.js" async="" type="text/javascript"></script><script src="index_bestanden/dat.js"></script>
 <script src="index_bestanden/matrix.js"></script>
 <script src="index_bestanden/jquery.js"></script>
 <script src="index_bestanden/soma.js"></script>
-<script src="index_bestanden/app.js"></script><div class="dg ac"><div style="-moz-user-select: none; width: 245px;" class="dg main a"><div style="width: 6px; margin-left: -3px; height: 28px; cursor: ew-resize; position: absolute;"></div><ul style="height: auto;"><li class="cr number has-slider"><div><span class="property-name">currentTime</span><div class="c"><div><input value="5" type="text"></div><div class="slider"><div style="width: 48.8134%;" class="slider-fg"></div></div></div></div></li></ul><div style="width: 245px;" class="close-button">Close Controls</div></div></div>
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-36294101-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
+<script src="index_bestanden/app.js"></script>
 
 </body></html>
