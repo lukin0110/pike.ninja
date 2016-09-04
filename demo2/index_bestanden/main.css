@@ -1,0 +1,31 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	background: black;
+	color: #FFFFFF;
+}
+video, img {
+	display: none;
+}
+#video_tracking,
+#canvas_tracking,
+#canvas_tracking_image,
+#video_tracking_counter,
+#canvas_tracking_counter,
+#canvas_tracking_image_counter {
+	display: none;
+	position: absolute;
+	top: 90px;
+	left: 10px;
+}
+#bt_switch_video {
+	display: none;
+	position: absolute;
+	top: 10px;
+	left: 250px;
+}
+#bt_switch_image {
+	display: none;
+	position: absolute;
+	top: 10px;
+	left: 350px;
+}
